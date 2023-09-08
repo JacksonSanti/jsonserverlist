@@ -1,0 +1,37 @@
+{
+  "433305FB3760627CF31CC3757CB63DA0":[
+     {
+        "id":1,
+        "name":"image_1",
+        "url":"https://app.wifipublicidade.com.br/campanhas/nome-do-arquivo.jpg",
+        "type":"image"
+     },
+     {
+        "id":2,
+        "name":"introdution",
+        "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "type":"video"
+     },
+     {
+        "id":3,
+        "name":"news_1",
+        "url":"https://app.wifipublicidade.com.br/news/hoje",
+        "type":"news"
+     },
+     {
+        "id":4,
+        "name":"volkswagen",
+        "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+        "type":"video"
+     },
+     {
+        "id":5,
+        "name":"volkswagen",
+        "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+        "type":"bullrun"
+     }
+  ],
+  "profile":{
+     "name":"typicode"
+  }
+}
